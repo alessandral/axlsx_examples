@@ -1,6 +1,8 @@
 require 'axlsx'
 require 'pry'
 
+#https://gist.github.com/randym
+#
 if __FILE__ == $0
   sample_name = "Create a workbook with one spreadsheet"
   puts "#{sample_name}"
